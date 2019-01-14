@@ -1,0 +1,15 @@
+{
+  "title": {
+    "series": "Chillhop Essentials",
+    "season": "Winter 2018"
+  },
+  "vendor": "Bandcamp",
+  "label": "Chillhop Records",
+  "date": "2018-12-11",
+  "rg": {
+    "algorithm": "ITU-R BS.1770",
+    "ref_loudness": "-18",
+    "gain": "-5.01",
+    "range": "11.08"
+  }
+}

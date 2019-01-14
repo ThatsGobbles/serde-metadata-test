@@ -1,0 +1,247 @@
+{
+  "TRACK01": {
+    "title": "Slopes",
+    "artist": [
+      "Philanthrope",
+      "Yasper"
+    ],
+    "rg": {
+      "gain": "-5.81",
+      "peak": "1.007139",
+      "range": "16.06"
+    }
+  },
+  "TRACK02": {
+    "title": "Morning Glory",
+    "artist": "Melodiesinfonie",
+    "rg": {
+      "gain": "-2.79",
+      "peak": "1.016486",
+      "range": "5.3"
+    }
+  },
+  "TRACK03": {
+    "title": "Middle School",
+    "artist": "Blue Wednesday",
+    "feat": "Magnus Klausen",
+    "rg": {
+      "gain": "-7.3",
+      "peak": "1.019019",
+      "range": "14.18"
+    }
+  },
+  "TRACK04": {
+    "title": "petricor",
+    "artist": "Juan RIOS",
+    "rg": {
+      "gain": "-2.83",
+      "peak": "1.009372",
+      "range": "6.84"
+    }
+  },
+  "TRACK05": {
+    "title": "Citrine",
+    "artist": "Toonorth",
+    "rg": {
+      "gain": "-6.13",
+      "peak": "1.010172",
+      "range": "11.61"
+    }
+  },
+  "TRACK06": {
+    "title": "Mistleflow",
+    "artist": "BEN BADA BOOM",
+    "rg": {
+      "gain": "-5.02",
+      "peak": "1.049436",
+      "range": "14.39"
+    }
+  },
+  "TRACK07": {
+    "title": "blankets",
+    "artist": "fantompower",
+    "rg": {
+      "gain": "-6.17",
+      "peak": "1.000305",
+      "range": "4.73"
+    }
+  },
+  "TRACK08": {
+    "title": "seltzy",
+    "artist": "Ian Ewing",
+    "rg": {
+      "gain": "-4.06",
+      "peak": "1.082697",
+      "range": "12.35"
+    }
+  },
+  "TRACK09": {
+    "title": "polarbeer",
+    "artist": "mommy",
+    "rg": {
+      "gain": "-3.52",
+      "peak": "1.007506",
+      "range": "12.92"
+    }
+  },
+  "TRACK10": {
+    "title": "Viaduct",
+    "artist": [
+      "Nokiaa",
+      "Dontcry"
+    ],
+    "rg": {
+      "gain": "-4.64",
+      "peak": "1.001881",
+      "range": "12.14"
+    }
+  },
+  "TRACK11": {
+    "title": "Gratitude",
+    "artist": "Ruck P",
+    "rg": {
+      "gain": "-7.14",
+      "peak": "1.005732",
+      "range": "9.99"
+    }
+  },
+  "TRACK12": {
+    "title": "Burn my Mind",
+    "artist": "TESK",
+    "rg": {
+      "gain": "-4.85",
+      "peak": "1.01119",
+      "range": "9"
+    }
+  },
+  "TRACK13": {
+    "title": "Embers in the Dark",
+    "artist": "Osvaldo",
+    "feat": "Garot Michael Conklin",
+    "rg": {
+      "gain": "-7.07",
+      "peak": "1.014089",
+      "range": "7.81"
+    }
+  },
+  "TRACK14": {
+    "title": "Captain Calvin",
+    "artist": [
+      "Louk",
+      "Yasper"
+    ],
+    "rg": {
+      "gain": "-4.37",
+      "peak": "1.005601",
+      "range": "6.84"
+    }
+  },
+  "TRACK15": {
+    "title": "Mila Coolness",
+    "artist": "Strehlow",
+    "rg": {
+      "gain": "-7.06",
+      "peak": "1.011218",
+      "range": "12.14"
+    }
+  },
+  "TRACK16": {
+    "title": "Potion",
+    "artist": "Monma",
+    "rg": {
+      "gain": "-6.29",
+      "peak": "1.031549",
+      "range": "8.74"
+    }
+  },
+  "TRACK17": {
+    "title": "With All I Am",
+    "artist": "Sofasound",
+    "rg": {
+      "gain": "-4.76",
+      "peak": "1.016339",
+      "range": "4.85"
+    }
+  },
+  "TRACK18": {
+    "title": "larkspur",
+    "artist": "harris cole",
+    "rg": {
+      "gain": "-4.38",
+      "peak": "1.01276",
+      "range": "4.81"
+    }
+  },
+  "TRACK19": {
+    "title": "Crossroads",
+    "artist": "Hanz",
+    "rg": {
+      "gain": "-5.98",
+      "peak": "1.024699",
+      "range": "15.01"
+    }
+  },
+  "TRACK20": {
+    "title": "Fall's Echos",
+    "artist": "Sleepy Fish",
+    "rg": {
+      "gain": "-5.95",
+      "peak": "1.010007",
+      "range": "10.54"
+    }
+  },
+  "TRACK21": {
+    "title": "Love Affair in Kyoto",
+    "artist": "sad toï",
+    "rg": {
+      "gain": "-3.09",
+      "peak": "1.001149",
+      "range": "9.94"
+    }
+  },
+  "TRACK22": {
+    "title": "snowluv",
+    "artist": "invention_",
+    "rg": {
+      "gain": "-4.9",
+      "peak": "1.011388",
+      "range": "9.99"
+    }
+  },
+  "TRACK23": {
+    "title": "Winter Lights",
+    "artist": "Smoke Trees",
+    "rg": {
+      "gain": "-2.19",
+      "peak": "1.004186",
+      "range": "9.16"
+    }
+  },
+  "TRACK24": {
+    "title": "I need to paint my walls",
+    "artist": "a l e x",
+    "rg": {
+      "gain": "-4.18",
+      "peak": "1.00337",
+      "range": "8.49"
+    }
+  },
+  "TRACK25": {
+    "title": "Candle",
+    "artist": "leavv",
+    "rg": {
+      "gain": "-2.89",
+      "peak": "1.006871",
+      "range": "13.13"
+    }
+  },
+  "TRACK26": {
+    "title": "Rainy Days",
+    "artist": "Aso",
+    "rg": {
+      "gain": "-4.23",
+      "peak": "1.033603",
+      "range": "4.47"
+    }
+  }
+}
